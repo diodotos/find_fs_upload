@@ -29,6 +29,6 @@ Uploaded by:
 
 Name: {uploader_info.get("name", "Unknown")}
 Email: {uploader_info.get("email", "Unknown")}
-Company: {uploader_info.get("associated_company", "Unknown")}
+Company: {uploader_info.get("associated_company", "Unknown")}\
 """
 )
